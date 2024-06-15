@@ -43,12 +43,8 @@ Hola soy Cristina Farrés, nueva en el mundo del Front-end y este es un trabajo 
 ### PokeAPI
 
 <p align="center">
-
-      <img width="50%" src="https://github.com/ctyna/promesasDeploy/blob/main/public/pokeapi.png">
-    
-
+  <img width="50%" src="https://github.com/ctyna/promesasDeploy/blob/main/public/pokeapi.png">
 </p>
-
 
 
 ## Authors
