@@ -1,5 +1,5 @@
 # Cristina Farrés práctica escuela CEI
-Creación de una página para el proyecto final en Diseño web HTLM, CSS y JS de la escuela CEI. La página se basa en la exposición de mis trabajos principalmente como diseñadora ux/ui y fotógrafa.  
+Creación de fetch en diversas páginas web para una práctica para la escuela CEI. 
 
 
 
