@@ -23,17 +23,30 @@ Hola soy Cristina Farrés, nueva en el mundo del Front-end y este es un trabajo 
 
 
 ## 🛠 Skills
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  
+</div>
+
+###
 
 
 ## Partes de la página
 ### PokeAPI
 
 <p align="center">
-  <a href="https://github.com/ctyna/CristinaFarres/tree/main" title="Web personal Cristina Farrés">
-      <img width="45%" src="https://github.com/ctyna/promesasDeploy/blob/main/public/pokeapi.png">
+
+      <img width="70%" src="https://github.com/ctyna/promesasDeploy/blob/main/public/pokeapi.png">
     
-  </a>
+
 </p>
 
 
