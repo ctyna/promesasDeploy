@@ -8,7 +8,7 @@ Creación de fetch en diversas páginas web para una práctica para la escuela C
 
 
 ## Tabla de contenido
-- [About Me](#-about-me).
+- [About Project](#-about-me).
 - [Skills](#-skills).
 - [Partes de la página](#partes-de-la-página).
 - [Autora](#authors).
@@ -47,7 +47,7 @@ Hola soy Cristina Farrés, nueva en el mundo del Front-end y este es un trabajo 
 </p>
 
 
-## Authors
+## Autora
 
 - [@CristinaFarrés](https://github.com/ctyna)
 
