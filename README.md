@@ -44,7 +44,7 @@ Hola soy Cristina Farrés, nueva en el mundo del Front-end y este es un trabajo 
 
 <p align="center">
 
-      <img width="70%" src="https://github.com/ctyna/promesasDeploy/blob/main/public/pokeapi.png">
+      <img width="50%" src="https://github.com/ctyna/promesasDeploy/blob/main/public/pokeapi.png">
     
 
 </p>
