@@ -1,4 +1,4 @@
-# Cristina Farrés website
+# Cristina Farrés práctica escuela CEI
 Creación de una página para el proyecto final en Diseño web HTLM, CSS y JS de la escuela CEI. La página se basa en la exposición de mis trabajos principalmente como diseñadora ux/ui y fotógrafa.  
 
 
@@ -31,7 +31,7 @@ Hola soy Cristina Farrés, nueva en el mundo del Front-end y este es un trabajo 
 
 <p align="center">
   <a href="https://github.com/ctyna/CristinaFarres/tree/main" title="Web personal Cristina Farrés">
-      <img width="45%" src="[https://github.com/ctyna/CristinaFarres/blob/main/assets/Iniciogit.png](https://github.com/ctyna/promesasDeploy/blob/main/public/pokeapi.png)">
+      <img width="45%" src="https://github.com/ctyna/promesasDeploy/blob/main/public/pokeapi.png">
     
   </a>
 </p>
